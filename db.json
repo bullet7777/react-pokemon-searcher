@@ -1340,6 +1340,51 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "id": 152,
+      "name": "da",
+      "hp": "",
+      "sprites": {
+        "front": "",
+        "back": ""
+      }
+    },
+    {
+      "id": 153,
+      "name": "fdds",
+      "hp": "",
+      "sprites": {
+        "front": "",
+        "back": ""
+      }
+    },
+    {
+      "name": "chris",
+      "hp": "",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 154
+    },
+    {
+      "name": "chris",
+      "hp": "45",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 155
+    },
+    {
+      "name": "bulbasaur ",
+      "hp": "30",
+      "sprites": {
+        "front": "",
+        "back": ""
+      },
+      "id": 156
     }
   ]
 }
